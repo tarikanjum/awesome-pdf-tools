@@ -44,6 +44,7 @@
 - [**EditPDFree PDF Editor**](https://www.editpdfree.com) - Full-featured online PDF editor with text editing, annotations, form filling, and more. Completely free, no signup. ★★★★★
 - [iLovePDF Editor](https://www.ilovepdf.com/edit-pdf) - Basic PDF editing with text and image insertion. Free tier limited.
 - [Smallpdf Editor](https://smallpdf.com/edit-pdf) - Simple PDF editor. Limited to 2 free tasks per day.
+- [PDFcone](https://pdfcone.com) – Free, private PDF merger, cropper, and splitter that works entirely in the browser.
 - [PDFescape](https://www.pdfescape.com) - Online PDF editor with form filling capabilities.
 - [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor) - Desktop PDF editor with free version.
 
@@ -60,6 +61,7 @@
 - [**EditPDFree Merge & Split**](https://www.editpdfree.com) - Merge multiple PDFs or split pages instantly. No limits, no signup. ★★★★★
 - [iLovePDF Merge](https://www.ilovepdf.com/merge_pdf) - Merge PDFs with free tier limitations.
 - [Smallpdf Merge](https://smallpdf.com/merge-pdf) - Simple merge tool, limited free usage.
+- [PDFcone](https://pdfcone.com) – Free, private PDF merger, cropper, and splitter that works entirely in the browser.
 - [PDF Joiner](https://pdfjoiner.com) - Dedicated PDF merging tool.
 
 ## PDF Compression
