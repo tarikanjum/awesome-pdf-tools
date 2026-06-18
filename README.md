@@ -61,6 +61,7 @@
 - [iLovePDF Merge](https://www.ilovepdf.com/merge_pdf) - Merge PDFs with free tier limitations.
 - [Smallpdf Merge](https://smallpdf.com/merge-pdf) - Simple merge tool, limited free usage.
 - [PDF Joiner](https://pdfjoiner.com) - Dedicated PDF merging tool.
+- [PDFcone](https://pdfcone.com)** – Free, client‑side PDF toolkit to merge, crop, split, compress, and convert PDFs. No file uploads, all processing happens in your browser.
 
 ## PDF Compression
 
